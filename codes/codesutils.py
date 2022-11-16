@@ -21,7 +21,7 @@ if __name__ =='__main__':
     # 将元组的value，按照key来分组，对所有的value执行聚集操作(相加)
     result_rdd = words_with_one_rdd.reduceByKey(lambda a,b :a+b)
 
-    # 通过collect 方法手机RDD的数据打印输出结果
+    # 通过collect 方法手动RDD的数据打印输出结果
     # collect方法，是将RDD(分布式对象)中的每个分区的数据，都发送到Driver中，形成一个Python List对象
     # collect: 分布式 转 -> 本地集合
     print(result_rdd.collect())

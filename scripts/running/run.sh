@@ -1,17 +1,18 @@
 #!/usr/bin/env bash
 
 
-DATA_PREFIX="./data"
+# DATA_PREFIX="./data"
+DATA_PREFIX="/data/dataset/fengwen/script/criteo-1tb-benchmark/notebooks/criteo/data"
 
 test_vw="${DATA_PREFIX}/data.test.1kk.vw"
 test_xgb="${DATA_PREFIX}/data.test.1kk.libsvm"
 
 for train_num in 10k 30k 100k 300k 1kk 3kk 10kk 30kk 100kk 300kk 1kkk 3kkk; do
     echo " * * * Train size ${train_num} lines * * *"
-
+    
     train_vw="${DATA_PREFIX}/data.train.${train_num}.vw"
     train_xgb="${DATA_PREFIX}/data.train.${train_num}.libsvm"
-
+    
     echo "Running VW with train ${train_vw} and ${test_vw}"
     ./vw.sh "${train_vw}" "${test_vw}"
 

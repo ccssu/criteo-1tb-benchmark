@@ -233,3 +233,1032 @@
 [2022-11-16 01:54:21,904] Saved "46000" lines to "criteo/libsvm/train/3kkk".
 [2022-11-16 01:54:22,463] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
 [2022-11-16 01:54:22,496] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 02:13:15,638] Spark version: 3.3.1.
+[2022-11-16 02:13:16,141] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 02:13:20,326] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 03:19:33,908] Spark version: 3.3.1.
+[2022-11-16 03:19:34,555] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 03:19:38,975] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 03:19:39,844] Done with chunk "0".
+[2022-11-16 03:19:39,855] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 03:19:40,116] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 03:19:40,345] Done with chunk "1".
+[2022-11-16 03:19:40,355] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 03:19:40,570] Processing and saving to "criteo/libsvm/day2".
+[2022-11-16 03:19:40,795] Done with chunk "2".
+[2022-11-16 03:19:40,808] Reading chunk "3" data from "criteo/plain/day3".
+[2022-11-16 03:19:40,988] Processing and saving to "criteo/libsvm/day3".
+[2022-11-16 03:19:41,256] Done with chunk "3".
+[2022-11-16 03:19:41,267] Reading chunk "4" data from "criteo/plain/day4".
+[2022-11-16 03:19:41,489] Processing and saving to "criteo/libsvm/day4".
+[2022-11-16 03:19:41,695] Done with chunk "4".
+[2022-11-16 03:19:41,706] Reading chunk "5" data from "criteo/plain/day5".
+[2022-11-16 03:19:41,874] Processing and saving to "criteo/libsvm/day5".
+[2022-11-16 03:19:42,191] Done with chunk "5".
+[2022-11-16 03:19:42,201] Reading chunk "6" data from "criteo/plain/day6".
+[2022-11-16 03:19:42,476] Processing and saving to "criteo/libsvm/day6".
+[2022-11-16 03:19:42,689] Done with chunk "6".
+[2022-11-16 03:19:42,699] Reading chunk "7" data from "criteo/plain/day7".
+[2022-11-16 03:19:42,895] Processing and saving to "criteo/libsvm/day7".
+[2022-11-16 03:19:43,157] Done with chunk "7".
+[2022-11-16 03:19:43,164] Reading chunk "8" data from "criteo/plain/day8".
+[2022-11-16 03:19:43,355] Processing and saving to "criteo/libsvm/day8".
+[2022-11-16 03:19:43,543] Done with chunk "8".
+[2022-11-16 03:19:43,555] Reading chunk "9" data from "criteo/plain/day9".
+[2022-11-16 03:19:43,719] Processing and saving to "criteo/libsvm/day9".
+[2022-11-16 03:19:43,918] Done with chunk "9".
+[2022-11-16 03:19:43,930] Reading chunk "10" data from "criteo/plain/day10".
+[2022-11-16 03:19:44,106] Processing and saving to "criteo/libsvm/day10".
+[2022-11-16 03:19:44,300] Done with chunk "10".
+[2022-11-16 03:19:44,310] Reading chunk "11" data from "criteo/plain/day11".
+[2022-11-16 03:19:44,480] Processing and saving to "criteo/libsvm/day11".
+[2022-11-16 03:19:44,684] Done with chunk "11".
+[2022-11-16 03:19:44,696] Reading chunk "12" data from "criteo/plain/day12".
+[2022-11-16 03:19:44,854] Processing and saving to "criteo/libsvm/day12".
+[2022-11-16 03:19:45,046] Done with chunk "12".
+[2022-11-16 03:19:45,056] Reading chunk "13" data from "criteo/plain/day13".
+[2022-11-16 03:19:45,217] Processing and saving to "criteo/libsvm/day13".
+[2022-11-16 03:19:45,414] Done with chunk "13".
+[2022-11-16 03:19:45,428] Reading chunk "14" data from "criteo/plain/day14".
+[2022-11-16 03:19:45,604] Processing and saving to "criteo/libsvm/day14".
+[2022-11-16 03:19:45,806] Done with chunk "14".
+[2022-11-16 03:19:45,818] Reading chunk "15" data from "criteo/plain/day15".
+[2022-11-16 03:19:45,984] Processing and saving to "criteo/libsvm/day15".
+[2022-11-16 03:19:46,168] Done with chunk "15".
+[2022-11-16 03:19:46,180] Reading chunk "16" data from "criteo/plain/day16".
+[2022-11-16 03:19:46,302] Processing and saving to "criteo/libsvm/day16".
+[2022-11-16 03:19:46,501] Done with chunk "16".
+[2022-11-16 03:19:46,514] Reading chunk "17" data from "criteo/plain/day17".
+[2022-11-16 03:19:46,660] Processing and saving to "criteo/libsvm/day17".
+[2022-11-16 03:19:46,852] Done with chunk "17".
+[2022-11-16 03:19:46,865] Reading chunk "18" data from "criteo/plain/day18".
+[2022-11-16 03:19:46,989] Processing and saving to "criteo/libsvm/day18".
+[2022-11-16 03:19:47,210] Done with chunk "18".
+[2022-11-16 03:19:47,221] Reading chunk "19" data from "criteo/plain/day19".
+[2022-11-16 03:19:47,380] Processing and saving to "criteo/libsvm/day19".
+[2022-11-16 03:19:47,577] Done with chunk "19".
+[2022-11-16 03:19:47,590] Reading chunk "20" data from "criteo/plain/day20".
+[2022-11-16 03:19:47,724] Processing and saving to "criteo/libsvm/day20".
+[2022-11-16 03:19:47,920] Done with chunk "20".
+[2022-11-16 03:19:47,933] Reading chunk "21" data from "criteo/plain/day21".
+[2022-11-16 03:19:48,086] Processing and saving to "criteo/libsvm/day21".
+[2022-11-16 03:19:48,271] Done with chunk "21".
+[2022-11-16 03:19:48,284] Reading chunk "22" data from "criteo/plain/day22".
+[2022-11-16 03:19:48,415] Processing and saving to "criteo/libsvm/day22".
+[2022-11-16 03:19:48,601] Done with chunk "22".
+[2022-11-16 03:19:48,613] Reading chunk "23" data from "criteo/plain/day23".
+[2022-11-16 03:19:48,763] Processing and saving to "criteo/libsvm/day23".
+[2022-11-16 03:19:48,955] Done with chunk "23".
+[2022-11-16 03:19:49,322] Preparing to write sample to "criteo/libsvm/test/1kk".
+[2022-11-16 03:19:49,519] Total number of lines for days "[23]" is "2000".
+[2022-11-16 03:19:49,535] Writing sample "1000000" to "criteo/libsvm/test/1kk".
+[2022-11-16 03:19:49,720] Saved "2000" lines to "criteo/libsvm/test/1kk".
+[2022-11-16 03:19:49,834] Preparing to write sample to "criteo/libsvm/train/10k".
+[2022-11-16 03:19:51,151] Total number of lines for days "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]" is "46000".
+[2022-11-16 03:19:51,486] Writing sample "10000" to "criteo/libsvm/train/10k".
+[2022-11-16 03:19:52,873] Saved "10000" lines to "criteo/libsvm/train/10k".
+[2022-11-16 03:19:52,884] Preparing to write sample to "criteo/libsvm/train/30k".
+[2022-11-16 03:19:53,216] Writing sample "30000" to "criteo/libsvm/train/30k".
+[2022-11-16 03:19:54,675] Saved "30000" lines to "criteo/libsvm/train/30k".
+[2022-11-16 03:19:54,688] Preparing to write sample to "criteo/libsvm/train/100k".
+[2022-11-16 03:19:54,937] Writing sample "100000" to "criteo/libsvm/train/100k".
+[2022-11-16 03:19:56,863] Saved "46000" lines to "criteo/libsvm/train/100k".
+[2022-11-16 03:19:56,876] Preparing to write sample to "criteo/libsvm/train/300k".
+[2022-11-16 03:19:57,133] Writing sample "300000" to "criteo/libsvm/train/300k".
+[2022-11-16 03:19:58,810] Saved "46000" lines to "criteo/libsvm/train/300k".
+[2022-11-16 03:19:58,824] Preparing to write sample to "criteo/libsvm/train/1kk".
+[2022-11-16 03:19:59,095] Writing sample "1000000" to "criteo/libsvm/train/1kk".
+[2022-11-16 03:20:00,858] Saved "46000" lines to "criteo/libsvm/train/1kk".
+[2022-11-16 03:20:00,868] Preparing to write sample to "criteo/libsvm/train/3kk".
+[2022-11-16 03:20:01,117] Writing sample "3000000" to "criteo/libsvm/train/3kk".
+[2022-11-16 03:20:02,880] Saved "46000" lines to "criteo/libsvm/train/3kk".
+[2022-11-16 03:20:02,893] Preparing to write sample to "criteo/libsvm/train/10kk".
+[2022-11-16 03:20:03,111] Writing sample "10000000" to "criteo/libsvm/train/10kk".
+[2022-11-16 03:20:04,758] Saved "46000" lines to "criteo/libsvm/train/10kk".
+[2022-11-16 03:20:04,770] Preparing to write sample to "criteo/libsvm/train/30kk".
+[2022-11-16 03:20:05,068] Writing sample "30000000" to "criteo/libsvm/train/30kk".
+[2022-11-16 03:20:06,801] Saved "46000" lines to "criteo/libsvm/train/30kk".
+[2022-11-16 03:20:06,812] Preparing to write sample to "criteo/libsvm/train/100kk".
+[2022-11-16 03:20:07,084] Writing sample "100000000" to "criteo/libsvm/train/100kk".
+[2022-11-16 03:20:08,855] Saved "46000" lines to "criteo/libsvm/train/100kk".
+[2022-11-16 03:20:08,866] Preparing to write sample to "criteo/libsvm/train/300kk".
+[2022-11-16 03:20:09,110] Writing sample "300000000" to "criteo/libsvm/train/300kk".
+[2022-11-16 03:20:10,879] Saved "46000" lines to "criteo/libsvm/train/300kk".
+[2022-11-16 03:20:10,890] Preparing to write sample to "criteo/libsvm/train/1kkk".
+[2022-11-16 03:20:11,124] Writing sample "1000000000" to "criteo/libsvm/train/1kkk".
+[2022-11-16 03:20:12,783] Saved "46000" lines to "criteo/libsvm/train/1kkk".
+[2022-11-16 03:20:12,793] Preparing to write sample to "criteo/libsvm/train/3kkk".
+[2022-11-16 03:20:13,008] Writing sample "3000000000" to "criteo/libsvm/train/3kkk".
+[2022-11-16 03:20:14,668] Saved "46000" lines to "criteo/libsvm/train/3kkk".
+[2022-11-16 03:20:15,186] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 03:20:15,218] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 03:21:36,910] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 03:21:36,951] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 03:22:15,920] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 03:22:15,951] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 04:10:01,869] Spark version: 3.3.1.
+[2022-11-16 04:15:29,821] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:15:34,308] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:15:34,932] Done with chunk "0".
+[2022-11-16 04:15:34,947] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 04:16:44,672] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:16:45,109] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:17:14,141] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:17:14,567] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:17:32,332] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:17:32,774] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:17:32,918] Done with chunk "0".
+[2022-11-16 04:17:32,932] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 04:17:33,270] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 04:17:33,380] Done with chunk "1".
+[2022-11-16 04:17:33,395] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 04:18:11,375] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:18:11,728] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:18:11,842] Done with chunk "0".
+[2022-11-16 04:18:11,854] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 04:19:00,608] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:19:00,919] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:19:01,051] Done with chunk "0".
+[2022-11-16 04:19:01,064] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 04:19:01,398] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 04:19:01,501] Done with chunk "1".
+[2022-11-16 04:19:01,516] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 04:20:56,357] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 04:20:56,656] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 04:20:56,751] Done with chunk "0".
+[2022-11-16 04:20:56,766] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 04:20:56,909] Exception while sending command.
+Traceback (most recent call last):
+  File "/data/dataset/fengwen/script/data/spark-3.3.1-bin-hadoop3-scala2.13/python/lib/py4j-0.10.9.5-src.zip/py4j/clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/dataset/fengwen/script/data/spark-3.3.1-bin-hadoop3-scala2.13/python/lib/py4j-0.10.9.5-src.zip/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/data/dataset/fengwen/script/data/spark-3.3.1-bin-hadoop3-scala2.13/python/lib/py4j-0.10.9.5-src.zip/py4j/clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+[2022-11-16 04:20:57,117] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 04:20:57,211] Done with chunk "1".
+[2022-11-16 04:20:57,224] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 04:20:57,502] Processing and saving to "criteo/libsvm/day2".
+[2022-11-16 04:20:57,602] Done with chunk "2".
+[2022-11-16 04:20:57,616] Reading chunk "3" data from "criteo/plain/day3".
+[2022-11-16 04:20:57,960] Processing and saving to "criteo/libsvm/day3".
+[2022-11-16 04:20:58,090] Done with chunk "3".
+[2022-11-16 04:20:58,105] Reading chunk "4" data from "criteo/plain/day4".
+[2022-11-16 04:20:58,377] Processing and saving to "criteo/libsvm/day4".
+[2022-11-16 04:20:58,471] Done with chunk "4".
+[2022-11-16 04:20:58,486] Reading chunk "5" data from "criteo/plain/day5".
+[2022-11-16 04:20:58,791] Processing and saving to "criteo/libsvm/day5".
+[2022-11-16 04:20:58,875] Done with chunk "5".
+[2022-11-16 04:20:58,891] Reading chunk "6" data from "criteo/plain/day6".
+[2022-11-16 04:20:59,162] Processing and saving to "criteo/libsvm/day6".
+[2022-11-16 04:20:59,290] Done with chunk "6".
+[2022-11-16 04:20:59,303] Reading chunk "7" data from "criteo/plain/day7".
+[2022-11-16 04:20:59,646] Processing and saving to "criteo/libsvm/day7".
+[2022-11-16 04:20:59,745] Done with chunk "7".
+[2022-11-16 04:20:59,760] Reading chunk "8" data from "criteo/plain/day8".
+[2022-11-16 04:21:00,114] Processing and saving to "criteo/libsvm/day8".
+[2022-11-16 04:21:00,210] Done with chunk "8".
+[2022-11-16 04:21:00,224] Reading chunk "9" data from "criteo/plain/day9".
+[2022-11-16 04:21:00,553] Processing and saving to "criteo/libsvm/day9".
+[2022-11-16 04:21:00,680] Done with chunk "9".
+[2022-11-16 04:21:00,694] Reading chunk "10" data from "criteo/plain/day10".
+[2022-11-16 04:21:00,965] Processing and saving to "criteo/libsvm/day10".
+[2022-11-16 04:21:01,054] Done with chunk "10".
+[2022-11-16 04:21:01,070] Reading chunk "11" data from "criteo/plain/day11".
+[2022-11-16 04:21:01,412] Processing and saving to "criteo/libsvm/day11".
+[2022-11-16 04:21:01,500] Done with chunk "11".
+[2022-11-16 04:21:01,514] Reading chunk "12" data from "criteo/plain/day12".
+[2022-11-16 04:21:01,770] Processing and saving to "criteo/libsvm/day12".
+[2022-11-16 04:21:01,895] Done with chunk "12".
+[2022-11-16 04:21:01,910] Reading chunk "13" data from "criteo/plain/day13".
+[2022-11-16 04:21:02,250] Processing and saving to "criteo/libsvm/day13".
+[2022-11-16 04:21:02,346] Done with chunk "13".
+[2022-11-16 04:21:02,360] Reading chunk "14" data from "criteo/plain/day14".
+[2022-11-16 04:21:02,612] Processing and saving to "criteo/libsvm/day14".
+[2022-11-16 04:21:02,689] Done with chunk "14".
+[2022-11-16 04:21:02,703] Reading chunk "15" data from "criteo/plain/day15".
+[2022-11-16 04:21:02,987] Processing and saving to "criteo/libsvm/day15".
+[2022-11-16 04:21:03,106] Done with chunk "15".
+[2022-11-16 04:21:03,121] Reading chunk "16" data from "criteo/plain/day16".
+[2022-11-16 04:21:03,379] Processing and saving to "criteo/libsvm/day16".
+[2022-11-16 04:21:03,470] Done with chunk "16".
+[2022-11-16 04:21:03,484] Reading chunk "17" data from "criteo/plain/day17".
+[2022-11-16 04:21:03,759] Processing and saving to "criteo/libsvm/day17".
+[2022-11-16 04:21:03,840] Done with chunk "17".
+[2022-11-16 04:21:03,853] Reading chunk "18" data from "criteo/plain/day18".
+[2022-11-16 04:21:04,097] Processing and saving to "criteo/libsvm/day18".
+[2022-11-16 04:21:04,218] Done with chunk "18".
+[2022-11-16 04:21:04,228] Reading chunk "19" data from "criteo/plain/day19".
+[2022-11-16 04:21:04,480] Processing and saving to "criteo/libsvm/day19".
+[2022-11-16 04:21:04,566] Done with chunk "19".
+[2022-11-16 04:21:04,579] Reading chunk "20" data from "criteo/plain/day20".
+[2022-11-16 04:21:04,823] Processing and saving to "criteo/libsvm/day20".
+[2022-11-16 04:21:04,915] Done with chunk "20".
+[2022-11-16 04:21:04,926] Reading chunk "21" data from "criteo/plain/day21".
+[2022-11-16 04:21:05,162] Processing and saving to "criteo/libsvm/day21".
+[2022-11-16 04:21:05,270] Done with chunk "21".
+[2022-11-16 04:21:05,283] Reading chunk "22" data from "criteo/plain/day22".
+[2022-11-16 04:21:05,522] Processing and saving to "criteo/libsvm/day22".
+[2022-11-16 04:21:05,602] Done with chunk "22".
+[2022-11-16 04:21:05,614] Reading chunk "23" data from "criteo/plain/day23".
+[2022-11-16 04:21:05,886] Processing and saving to "criteo/libsvm/day23".
+[2022-11-16 04:21:05,961] Done with chunk "23".
+[2022-11-16 04:36:16,315] Preparing to write sample to "criteo/libsvm/test/1kk".
+[2022-11-16 04:36:16,462] Total number of lines for days "[23]" is "1".
+[2022-11-16 04:36:16,479] Writing sample "1000000" to "criteo/libsvm/test/1kk".
+[2022-11-16 04:36:16,623] Saved "1" lines to "criteo/libsvm/test/1kk".
+[2022-11-16 04:46:37,533] Preparing to write sample to "criteo/libsvm/train/10k".
+[2022-11-16 04:46:38,665] Total number of lines for days "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]" is "23".
+[2022-11-16 04:46:39,171] Writing sample "10000" to "criteo/libsvm/train/10k".
+[2022-11-16 04:46:39,689] Saved "23" lines to "criteo/libsvm/train/10k".
+[2022-11-16 04:46:39,705] Preparing to write sample to "criteo/libsvm/train/30k".
+[2022-11-16 04:46:40,159] Writing sample "30000" to "criteo/libsvm/train/30k".
+[2022-11-16 04:46:40,697] Saved "23" lines to "criteo/libsvm/train/30k".
+[2022-11-16 04:46:40,711] Preparing to write sample to "criteo/libsvm/train/100k".
+[2022-11-16 04:46:41,171] Writing sample "100000" to "criteo/libsvm/train/100k".
+[2022-11-16 04:46:41,704] Saved "23" lines to "criteo/libsvm/train/100k".
+[2022-11-16 04:46:41,718] Preparing to write sample to "criteo/libsvm/train/300k".
+[2022-11-16 04:46:42,220] Writing sample "300000" to "criteo/libsvm/train/300k".
+[2022-11-16 04:46:42,713] Saved "23" lines to "criteo/libsvm/train/300k".
+[2022-11-16 04:46:42,729] Preparing to write sample to "criteo/libsvm/train/1kk".
+[2022-11-16 04:46:43,230] Writing sample "1000000" to "criteo/libsvm/train/1kk".
+[2022-11-16 04:46:43,841] Saved "23" lines to "criteo/libsvm/train/1kk".
+[2022-11-16 04:46:43,855] Preparing to write sample to "criteo/libsvm/train/3kk".
+[2022-11-16 04:46:44,350] Writing sample "3000000" to "criteo/libsvm/train/3kk".
+[2022-11-16 04:46:44,893] Saved "23" lines to "criteo/libsvm/train/3kk".
+[2022-11-16 04:46:44,908] Preparing to write sample to "criteo/libsvm/train/10kk".
+[2022-11-16 04:46:45,365] Writing sample "10000000" to "criteo/libsvm/train/10kk".
+[2022-11-16 04:46:45,884] Saved "23" lines to "criteo/libsvm/train/10kk".
+[2022-11-16 04:46:45,896] Preparing to write sample to "criteo/libsvm/train/30kk".
+[2022-11-16 04:46:46,394] Writing sample "30000000" to "criteo/libsvm/train/30kk".
+[2022-11-16 04:46:46,849] Saved "23" lines to "criteo/libsvm/train/30kk".
+[2022-11-16 04:46:46,863] Preparing to write sample to "criteo/libsvm/train/100kk".
+[2022-11-16 04:46:47,348] Writing sample "100000000" to "criteo/libsvm/train/100kk".
+[2022-11-16 04:46:47,936] Saved "23" lines to "criteo/libsvm/train/100kk".
+[2022-11-16 04:46:47,947] Preparing to write sample to "criteo/libsvm/train/300kk".
+[2022-11-16 04:46:48,433] Writing sample "300000000" to "criteo/libsvm/train/300kk".
+[2022-11-16 04:46:48,915] Saved "23" lines to "criteo/libsvm/train/300kk".
+[2022-11-16 04:46:48,931] Preparing to write sample to "criteo/libsvm/train/1kkk".
+[2022-11-16 04:46:49,401] Writing sample "1000000000" to "criteo/libsvm/train/1kkk".
+[2022-11-16 04:46:49,933] Saved "23" lines to "criteo/libsvm/train/1kkk".
+[2022-11-16 04:46:49,945] Preparing to write sample to "criteo/libsvm/train/3kkk".
+[2022-11-16 04:46:50,434] Writing sample "3000000000" to "criteo/libsvm/train/3kkk".
+[2022-11-16 04:46:51,022] Saved "23" lines to "criteo/libsvm/train/3kkk".
+[2022-11-16 05:08:42,897] Spark version: 3.3.1.
+[2022-11-16 05:08:44,010] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 05:08:45,276] Exception while sending command.
+Traceback (most recent call last):
+  File "/data/dataset/fengwen/script/data/spark-3.3.1-bin-hadoop3-scala2.13/python/lib/py4j-0.10.9.5-src.zip/py4j/clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/dataset/fengwen/script/data/spark-3.3.1-bin-hadoop3-scala2.13/python/lib/py4j-0.10.9.5-src.zip/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/data/dataset/fengwen/script/data/spark-3.3.1-bin-hadoop3-scala2.13/python/lib/py4j-0.10.9.5-src.zip/py4j/clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+[2022-11-16 05:08:48,381] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 05:08:49,107] Done with chunk "0".
+[2022-11-16 05:08:49,123] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 05:08:49,502] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 05:08:49,634] Done with chunk "1".
+[2022-11-16 05:08:49,643] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 05:08:49,975] Processing and saving to "criteo/libsvm/day2".
+[2022-11-16 05:08:50,085] Done with chunk "2".
+[2022-11-16 05:08:50,098] Reading chunk "3" data from "criteo/plain/day3".
+[2022-11-16 05:08:50,404] Processing and saving to "criteo/libsvm/day3".
+[2022-11-16 05:08:50,540] Done with chunk "3".
+[2022-11-16 05:08:50,552] Reading chunk "4" data from "criteo/plain/day4".
+[2022-11-16 05:08:50,877] Processing and saving to "criteo/libsvm/day4".
+[2022-11-16 05:08:50,984] Done with chunk "4".
+[2022-11-16 05:08:50,995] Reading chunk "5" data from "criteo/plain/day5".
+[2022-11-16 05:08:51,272] Processing and saving to "criteo/libsvm/day5".
+[2022-11-16 05:08:51,373] Done with chunk "5".
+[2022-11-16 05:08:51,381] Reading chunk "6" data from "criteo/plain/day6".
+[2022-11-16 05:08:51,675] Processing and saving to "criteo/libsvm/day6".
+[2022-11-16 05:08:51,804] Done with chunk "6".
+[2022-11-16 05:08:51,815] Reading chunk "7" data from "criteo/plain/day7".
+[2022-11-16 05:08:52,072] Processing and saving to "criteo/libsvm/day7".
+[2022-11-16 05:08:52,178] Done with chunk "7".
+[2022-11-16 05:08:52,186] Reading chunk "8" data from "criteo/plain/day8".
+[2022-11-16 05:08:52,451] Processing and saving to "criteo/libsvm/day8".
+[2022-11-16 05:08:52,541] Done with chunk "8".
+[2022-11-16 05:08:52,551] Reading chunk "9" data from "criteo/plain/day9".
+[2022-11-16 05:08:52,798] Processing and saving to "criteo/libsvm/day9".
+[2022-11-16 05:08:52,919] Done with chunk "9".
+[2022-11-16 05:08:52,931] Reading chunk "10" data from "criteo/plain/day10".
+[2022-11-16 05:08:53,186] Processing and saving to "criteo/libsvm/day10".
+[2022-11-16 05:08:53,264] Done with chunk "10".
+[2022-11-16 05:08:53,276] Reading chunk "11" data from "criteo/plain/day11".
+[2022-11-16 05:08:53,484] Processing and saving to "criteo/libsvm/day11".
+[2022-11-16 05:08:53,565] Done with chunk "11".
+[2022-11-16 05:08:53,577] Reading chunk "12" data from "criteo/plain/day12".
+[2022-11-16 05:08:53,822] Processing and saving to "criteo/libsvm/day12".
+[2022-11-16 05:08:53,936] Done with chunk "12".
+[2022-11-16 05:08:53,949] Reading chunk "13" data from "criteo/plain/day13".
+[2022-11-16 05:08:54,183] Processing and saving to "criteo/libsvm/day13".
+[2022-11-16 05:08:54,280] Done with chunk "13".
+[2022-11-16 05:08:54,293] Reading chunk "14" data from "criteo/plain/day14".
+[2022-11-16 05:08:54,541] Processing and saving to "criteo/libsvm/day14".
+[2022-11-16 05:08:54,628] Done with chunk "14".
+[2022-11-16 05:08:54,641] Reading chunk "15" data from "criteo/plain/day15".
+[2022-11-16 05:08:54,926] Processing and saving to "criteo/libsvm/day15".
+[2022-11-16 05:08:55,053] Done with chunk "15".
+[2022-11-16 05:08:55,065] Reading chunk "16" data from "criteo/plain/day16".
+[2022-11-16 05:08:55,350] Processing and saving to "criteo/libsvm/day16".
+[2022-11-16 05:08:55,431] Done with chunk "16".
+[2022-11-16 05:08:55,446] Reading chunk "17" data from "criteo/plain/day17".
+[2022-11-16 05:08:55,690] Processing and saving to "criteo/libsvm/day17".
+[2022-11-16 05:08:55,773] Done with chunk "17".
+[2022-11-16 05:08:55,786] Reading chunk "18" data from "criteo/plain/day18".
+[2022-11-16 05:08:56,006] Processing and saving to "criteo/libsvm/day18".
+[2022-11-16 05:08:56,117] Done with chunk "18".
+[2022-11-16 05:08:56,131] Reading chunk "19" data from "criteo/plain/day19".
+[2022-11-16 05:08:56,358] Processing and saving to "criteo/libsvm/day19".
+[2022-11-16 05:08:56,450] Done with chunk "19".
+[2022-11-16 05:08:56,462] Reading chunk "20" data from "criteo/plain/day20".
+[2022-11-16 05:08:56,684] Processing and saving to "criteo/libsvm/day20".
+[2022-11-16 05:08:56,781] Done with chunk "20".
+[2022-11-16 05:08:56,789] Reading chunk "21" data from "criteo/plain/day21".
+[2022-11-16 05:08:57,027] Processing and saving to "criteo/libsvm/day21".
+[2022-11-16 05:08:57,142] Done with chunk "21".
+[2022-11-16 05:08:57,155] Reading chunk "22" data from "criteo/plain/day22".
+[2022-11-16 05:08:57,347] Processing and saving to "criteo/libsvm/day22".
+[2022-11-16 05:08:57,433] Done with chunk "22".
+[2022-11-16 05:08:57,445] Reading chunk "23" data from "criteo/plain/day23".
+[2022-11-16 05:08:57,682] Processing and saving to "criteo/libsvm/day23".
+[2022-11-16 05:08:57,761] Done with chunk "23".
+[2022-11-16 05:08:58,148] Preparing to write sample to "criteo/libsvm/test/1kk".
+[2022-11-16 05:08:58,320] Total number of lines for days "[23]" is "1".
+[2022-11-16 05:08:58,335] Writing sample "1000000" to "criteo/libsvm/test/1kk".
+[2022-11-16 05:08:58,491] Saved "1" lines to "criteo/libsvm/test/1kk".
+[2022-11-16 05:08:58,618] Preparing to write sample to "criteo/libsvm/train/10k".
+[2022-11-16 05:08:59,717] Total number of lines for days "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]" is "23".
+[2022-11-16 05:09:00,240] Writing sample "10000" to "criteo/libsvm/train/10k".
+[2022-11-16 05:09:00,895] Saved "23" lines to "criteo/libsvm/train/10k".
+[2022-11-16 05:09:00,905] Preparing to write sample to "criteo/libsvm/train/30k".
+[2022-11-16 05:09:01,359] Writing sample "30000" to "criteo/libsvm/train/30k".
+[2022-11-16 05:09:02,001] Saved "23" lines to "criteo/libsvm/train/30k".
+[2022-11-16 05:09:02,014] Preparing to write sample to "criteo/libsvm/train/100k".
+[2022-11-16 05:09:02,514] Writing sample "100000" to "criteo/libsvm/train/100k".
+[2022-11-16 05:09:03,057] Saved "23" lines to "criteo/libsvm/train/100k".
+[2022-11-16 05:09:03,069] Preparing to write sample to "criteo/libsvm/train/300k".
+[2022-11-16 05:09:03,540] Writing sample "300000" to "criteo/libsvm/train/300k".
+[2022-11-16 05:09:04,075] Saved "23" lines to "criteo/libsvm/train/300k".
+[2022-11-16 05:09:04,088] Preparing to write sample to "criteo/libsvm/train/1kk".
+[2022-11-16 05:09:04,600] Writing sample "1000000" to "criteo/libsvm/train/1kk".
+[2022-11-16 05:09:05,127] Saved "23" lines to "criteo/libsvm/train/1kk".
+[2022-11-16 05:09:05,139] Preparing to write sample to "criteo/libsvm/train/3kk".
+[2022-11-16 05:09:05,640] Writing sample "3000000" to "criteo/libsvm/train/3kk".
+[2022-11-16 05:09:06,242] Saved "23" lines to "criteo/libsvm/train/3kk".
+[2022-11-16 05:09:06,252] Preparing to write sample to "criteo/libsvm/train/10kk".
+[2022-11-16 05:09:06,738] Writing sample "10000000" to "criteo/libsvm/train/10kk".
+[2022-11-16 05:09:07,345] Saved "23" lines to "criteo/libsvm/train/10kk".
+[2022-11-16 05:09:07,359] Preparing to write sample to "criteo/libsvm/train/30kk".
+[2022-11-16 05:09:07,831] Writing sample "30000000" to "criteo/libsvm/train/30kk".
+[2022-11-16 05:09:08,281] Saved "23" lines to "criteo/libsvm/train/30kk".
+[2022-11-16 05:09:08,292] Preparing to write sample to "criteo/libsvm/train/100kk".
+[2022-11-16 05:09:08,763] Writing sample "100000000" to "criteo/libsvm/train/100kk".
+[2022-11-16 05:09:09,244] Saved "23" lines to "criteo/libsvm/train/100kk".
+[2022-11-16 05:09:09,257] Preparing to write sample to "criteo/libsvm/train/300kk".
+[2022-11-16 05:09:09,692] Writing sample "300000000" to "criteo/libsvm/train/300kk".
+[2022-11-16 05:09:10,221] Saved "23" lines to "criteo/libsvm/train/300kk".
+[2022-11-16 05:09:10,232] Preparing to write sample to "criteo/libsvm/train/1kkk".
+[2022-11-16 05:09:10,703] Writing sample "1000000000" to "criteo/libsvm/train/1kkk".
+[2022-11-16 05:09:11,256] Saved "23" lines to "criteo/libsvm/train/1kkk".
+[2022-11-16 05:09:11,268] Preparing to write sample to "criteo/libsvm/train/3kkk".
+[2022-11-16 05:09:11,761] Writing sample "3000000000" to "criteo/libsvm/train/3kkk".
+[2022-11-16 05:09:12,360] Saved "23" lines to "criteo/libsvm/train/3kkk".
+[2022-11-16 05:09:12,956] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:09:12,997] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:13:15,680] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:13:15,722] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:14:09,914] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:14:09,952] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:28:34,912] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:28:34,951] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:29:03,909] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:29:03,944] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:29:18,173] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:29:18,211] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:29:33,777] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 05:29:33,815] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 05:29:33,931] Done with chunk "1kk".
+[2022-11-16 05:29:39,177] Reading chunk "10k" data from "criteo/libsvm/train/10k".
+[2022-11-16 05:29:39,217] Processing and saving to "criteo/vw/train/10k".
+[2022-11-16 05:29:39,336] Done with chunk "10k".
+[2022-11-16 05:29:39,349] Reading chunk "30k" data from "criteo/libsvm/train/30k".
+[2022-11-16 05:29:39,381] Processing and saving to "criteo/vw/train/30k".
+[2022-11-16 05:29:39,490] Done with chunk "30k".
+[2022-11-16 05:29:39,503] Reading chunk "100k" data from "criteo/libsvm/train/100k".
+[2022-11-16 05:29:39,536] Processing and saving to "criteo/vw/train/100k".
+[2022-11-16 05:29:39,668] Done with chunk "100k".
+[2022-11-16 05:29:39,682] Reading chunk "300k" data from "criteo/libsvm/train/300k".
+[2022-11-16 05:29:39,715] Processing and saving to "criteo/vw/train/300k".
+[2022-11-16 05:29:39,818] Done with chunk "300k".
+[2022-11-16 05:29:39,831] Reading chunk "1kk" data from "criteo/libsvm/train/1kk".
+[2022-11-16 05:29:39,867] Processing and saving to "criteo/vw/train/1kk".
+[2022-11-16 05:29:39,972] Done with chunk "1kk".
+[2022-11-16 05:29:39,982] Reading chunk "3kk" data from "criteo/libsvm/train/3kk".
+[2022-11-16 05:29:40,009] Processing and saving to "criteo/vw/train/3kk".
+[2022-11-16 05:29:40,138] Done with chunk "3kk".
+[2022-11-16 05:29:40,153] Reading chunk "10kk" data from "criteo/libsvm/train/10kk".
+[2022-11-16 05:29:40,188] Processing and saving to "criteo/vw/train/10kk".
+[2022-11-16 05:29:40,283] Done with chunk "10kk".
+[2022-11-16 05:29:40,298] Reading chunk "30kk" data from "criteo/libsvm/train/30kk".
+[2022-11-16 05:29:40,333] Processing and saving to "criteo/vw/train/30kk".
+[2022-11-16 05:29:40,422] Done with chunk "30kk".
+[2022-11-16 05:29:40,436] Reading chunk "100kk" data from "criteo/libsvm/train/100kk".
+[2022-11-16 05:29:40,469] Processing and saving to "criteo/vw/train/100kk".
+[2022-11-16 05:29:40,596] Done with chunk "100kk".
+[2022-11-16 05:29:40,611] Reading chunk "300kk" data from "criteo/libsvm/train/300kk".
+[2022-11-16 05:29:40,646] Processing and saving to "criteo/vw/train/300kk".
+[2022-11-16 05:29:40,738] Done with chunk "300kk".
+[2022-11-16 05:29:40,753] Reading chunk "1kkk" data from "criteo/libsvm/train/1kkk".
+[2022-11-16 05:29:40,788] Processing and saving to "criteo/vw/train/1kkk".
+[2022-11-16 05:29:40,887] Done with chunk "1kkk".
+[2022-11-16 05:29:40,901] Reading chunk "3kkk" data from "criteo/libsvm/train/3kkk".
+[2022-11-16 05:29:40,936] Processing and saving to "criteo/vw/train/3kkk".
+[2022-11-16 05:29:41,067] Done with chunk "3kkk".
+[2022-11-16 05:43:20,474] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 05:43:20,491] File loaded to "criteo/data/data.test.1kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:20,537] File "criteo/data/data.test.1kk.libsvm" already exists but number of lines "1" is wrong (must be "1000000"), reloading.
+[2022-11-16 05:45:20,539] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 05:45:20,554] File loaded to "criteo/data/data.test.1kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,211] Loading file "criteo/libsvm/train/10k" as local file "criteo/data/data.train.10k.libsvm".
+[2022-11-16 05:45:23,227] File loaded to "criteo/data/data.train.10k.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,229] Loading file "criteo/libsvm/train/30k" as local file "criteo/data/data.train.30k.libsvm".
+[2022-11-16 05:45:23,237] File loaded to "criteo/data/data.train.30k.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,238] Loading file "criteo/libsvm/train/100k" as local file "criteo/data/data.train.100k.libsvm".
+[2022-11-16 05:45:23,246] File loaded to "criteo/data/data.train.100k.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,247] Loading file "criteo/libsvm/train/300k" as local file "criteo/data/data.train.300k.libsvm".
+[2022-11-16 05:45:23,255] File loaded to "criteo/data/data.train.300k.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,257] Loading file "criteo/libsvm/train/1kk" as local file "criteo/data/data.train.1kk.libsvm".
+[2022-11-16 05:45:23,264] File loaded to "criteo/data/data.train.1kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,265] Loading file "criteo/libsvm/train/3kk" as local file "criteo/data/data.train.3kk.libsvm".
+[2022-11-16 05:45:23,273] File loaded to "criteo/data/data.train.3kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,274] Loading file "criteo/libsvm/train/10kk" as local file "criteo/data/data.train.10kk.libsvm".
+[2022-11-16 05:45:23,283] File loaded to "criteo/data/data.train.10kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,284] Loading file "criteo/libsvm/train/30kk" as local file "criteo/data/data.train.30kk.libsvm".
+[2022-11-16 05:45:23,292] File loaded to "criteo/data/data.train.30kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,293] Loading file "criteo/libsvm/train/100kk" as local file "criteo/data/data.train.100kk.libsvm".
+[2022-11-16 05:45:23,301] File loaded to "criteo/data/data.train.100kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,302] Loading file "criteo/libsvm/train/300kk" as local file "criteo/data/data.train.300kk.libsvm".
+[2022-11-16 05:45:23,311] File loaded to "criteo/data/data.train.300kk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,312] Loading file "criteo/libsvm/train/1kkk" as local file "criteo/data/data.train.1kkk.libsvm".
+[2022-11-16 05:45:23,324] File loaded to "criteo/data/data.train.1kkk.libsvm", number of lines is "1".
+[2022-11-16 05:45:23,327] Loading file "criteo/libsvm/train/3kkk" as local file "criteo/data/data.train.3kkk.libsvm".
+[2022-11-16 05:45:23,344] File loaded to "criteo/data/data.train.3kkk.libsvm", number of lines is "1".
+[2022-11-16 05:45:26,298] Loading file "criteo/vw/test/1kk" as local file "criteo/data/data.test.1kk.vw".
+[2022-11-16 05:45:26,314] File loaded to "criteo/data/data.test.1kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,297] Loading file "criteo/vw/train/10k" as local file "criteo/data/data.train.10k.vw".
+[2022-11-16 05:45:28,313] File loaded to "criteo/data/data.train.10k.vw", number of lines is "1".
+[2022-11-16 05:45:28,315] Loading file "criteo/vw/train/30k" as local file "criteo/data/data.train.30k.vw".
+[2022-11-16 05:45:28,327] File loaded to "criteo/data/data.train.30k.vw", number of lines is "1".
+[2022-11-16 05:45:28,329] Loading file "criteo/vw/train/100k" as local file "criteo/data/data.train.100k.vw".
+[2022-11-16 05:45:28,339] File loaded to "criteo/data/data.train.100k.vw", number of lines is "1".
+[2022-11-16 05:45:28,341] Loading file "criteo/vw/train/300k" as local file "criteo/data/data.train.300k.vw".
+[2022-11-16 05:45:28,353] File loaded to "criteo/data/data.train.300k.vw", number of lines is "1".
+[2022-11-16 05:45:28,355] Loading file "criteo/vw/train/1kk" as local file "criteo/data/data.train.1kk.vw".
+[2022-11-16 05:45:28,367] File loaded to "criteo/data/data.train.1kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,368] Loading file "criteo/vw/train/3kk" as local file "criteo/data/data.train.3kk.vw".
+[2022-11-16 05:45:28,380] File loaded to "criteo/data/data.train.3kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,382] Loading file "criteo/vw/train/10kk" as local file "criteo/data/data.train.10kk.vw".
+[2022-11-16 05:45:28,393] File loaded to "criteo/data/data.train.10kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,395] Loading file "criteo/vw/train/30kk" as local file "criteo/data/data.train.30kk.vw".
+[2022-11-16 05:45:28,404] File loaded to "criteo/data/data.train.30kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,406] Loading file "criteo/vw/train/100kk" as local file "criteo/data/data.train.100kk.vw".
+[2022-11-16 05:45:28,417] File loaded to "criteo/data/data.train.100kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,419] Loading file "criteo/vw/train/300kk" as local file "criteo/data/data.train.300kk.vw".
+[2022-11-16 05:45:28,429] File loaded to "criteo/data/data.train.300kk.vw", number of lines is "1".
+[2022-11-16 05:45:28,431] Loading file "criteo/vw/train/1kkk" as local file "criteo/data/data.train.1kkk.vw".
+[2022-11-16 05:45:28,442] File loaded to "criteo/data/data.train.1kkk.vw", number of lines is "1".
+[2022-11-16 05:45:28,444] Loading file "criteo/vw/train/3kkk" as local file "criteo/data/data.train.3kkk.vw".
+[2022-11-16 05:45:28,451] File loaded to "criteo/data/data.train.3kkk.vw", number of lines is "1".
+[2022-11-16 05:46:14,292] Training "vw" on "10000" lines of data.
+[2022-11-16 05:46:14,294] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 05:46:14,295] Performing train.
+[2022-11-16 06:08:17,964] Training "vw" on "10000" lines of data.
+[2022-11-16 06:08:17,966] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 06:08:17,968] Performing train.
+[2022-11-16 06:08:17,986] Performing test.
+[2022-11-16 06:32:07,680] Training "vw" on "10000" lines of data.
+[2022-11-16 06:32:07,683] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 06:32:07,684] Performing train.
+[2022-11-16 06:32:07,707] Performing test.
+[2022-11-16 06:39:56,457] Training "vw" on "10000" lines of data.
+[2022-11-16 06:39:56,459] Training "xgb" on "10000" lines of data.
+[2022-11-16 06:39:56,461] Training "xgb.ooc" on "10000" lines of data.
+[2022-11-16 06:39:56,462] Training "vw" on "30000" lines of data.
+[2022-11-16 06:39:56,463] Training "xgb" on "30000" lines of data.
+[2022-11-16 06:39:56,463] Training "xgb.ooc" on "30000" lines of data.
+[2022-11-16 06:39:56,464] Training "vw" on "100000" lines of data.
+[2022-11-16 06:39:56,465] Training "xgb" on "100000" lines of data.
+[2022-11-16 06:39:56,466] Training "xgb.ooc" on "100000" lines of data.
+[2022-11-16 06:39:56,466] Training "vw" on "300000" lines of data.
+[2022-11-16 06:39:56,467] Training "xgb" on "300000" lines of data.
+[2022-11-16 06:39:56,468] Training "xgb.ooc" on "300000" lines of data.
+[2022-11-16 06:39:56,469] Training "vw" on "1000000" lines of data.
+[2022-11-16 06:39:56,470] Training "xgb" on "1000000" lines of data.
+[2022-11-16 06:39:56,470] Training "xgb.ooc" on "1000000" lines of data.
+[2022-11-16 06:39:56,471] Training "vw" on "3000000" lines of data.
+[2022-11-16 06:39:56,472] Training "xgb" on "3000000" lines of data.
+[2022-11-16 06:39:56,472] Training "xgb.ooc" on "3000000" lines of data.
+[2022-11-16 06:39:56,472] Training "vw" on "10000000" lines of data.
+[2022-11-16 06:39:56,473] Training "xgb" on "10000000" lines of data.
+[2022-11-16 06:39:56,473] Training "xgb.ooc" on "10000000" lines of data.
+[2022-11-16 06:39:56,473] Training "vw" on "30000000" lines of data.
+[2022-11-16 06:39:56,474] Training "xgb" on "30000000" lines of data.
+[2022-11-16 06:39:56,475] Training "xgb.ooc" on "30000000" lines of data.
+[2022-11-16 06:39:56,475] Training "vw" on "100000000" lines of data.
+[2022-11-16 06:39:56,475] Training "xgb" on "100000000" lines of data.
+[2022-11-16 06:39:56,476] Training "xgb.ooc" on "100000000" lines of data.
+[2022-11-16 06:39:56,476] Training "vw" on "300000000" lines of data.
+[2022-11-16 06:39:56,477] Training "xgb" on "300000000" lines of data.
+[2022-11-16 06:39:56,477] Training "xgb.ooc" on "300000000" lines of data.
+[2022-11-16 06:39:56,478] Training "vw" on "1000000000" lines of data.
+[2022-11-16 06:39:56,478] Training "xgb" on "1000000000" lines of data.
+[2022-11-16 06:39:56,478] Training "xgb.ooc" on "1000000000" lines of data.
+[2022-11-16 06:39:56,479] Training "vw" on "3000000000" lines of data.
+[2022-11-16 06:39:56,479] Training "xgb" on "3000000000" lines of data.
+[2022-11-16 06:39:56,480] Training "xgb.ooc" on "3000000000" lines of data.
+[2022-11-16 06:41:01,073] Training "vw" on "10000" lines of data.
+[2022-11-16 06:41:01,076] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 06:41:01,077] Performing train.
+[2022-11-16 06:41:01,100] Performing test.
+[2022-11-16 06:47:34,486] Spark version: 3.3.1.
+[2022-11-16 06:47:35,212] Reading chunk "0" data from "criteo/plain/day_0".
+[2022-11-16 06:50:10,019] Spark version: 3.3.1.
+[2022-11-16 06:50:10,659] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 06:50:15,031] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 06:50:15,747] Done with chunk "0".
+[2022-11-16 06:50:15,760] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 06:50:16,003] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 06:50:16,124] Done with chunk "1".
+[2022-11-16 06:50:16,136] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 06:50:16,340] Processing and saving to "criteo/libsvm/day2".
+[2022-11-16 06:50:16,462] Done with chunk "2".
+[2022-11-16 06:50:16,476] Reading chunk "3" data from "criteo/plain/day3".
+[2022-11-16 06:50:16,688] Processing and saving to "criteo/libsvm/day3".
+[2022-11-16 06:50:16,825] Done with chunk "3".
+[2022-11-16 06:50:16,838] Reading chunk "4" data from "criteo/plain/day4".
+[2022-11-16 06:50:17,032] Processing and saving to "criteo/libsvm/day4".
+[2022-11-16 06:50:17,140] Done with chunk "4".
+[2022-11-16 06:50:17,151] Reading chunk "5" data from "criteo/plain/day5".
+[2022-11-16 06:50:17,333] Processing and saving to "criteo/libsvm/day5".
+[2022-11-16 06:50:17,430] Done with chunk "5".
+[2022-11-16 06:50:17,442] Reading chunk "6" data from "criteo/plain/day6".
+[2022-11-16 06:50:17,663] Processing and saving to "criteo/libsvm/day6".
+[2022-11-16 06:50:17,794] Done with chunk "6".
+[2022-11-16 06:50:17,808] Reading chunk "7" data from "criteo/plain/day7".
+[2022-11-16 06:50:18,006] Processing and saving to "criteo/libsvm/day7".
+[2022-11-16 06:50:18,115] Done with chunk "7".
+[2022-11-16 06:50:18,126] Reading chunk "8" data from "criteo/plain/day8".
+[2022-11-16 06:50:18,308] Processing and saving to "criteo/libsvm/day8".
+[2022-11-16 06:50:18,407] Done with chunk "8".
+[2022-11-16 06:50:18,418] Reading chunk "9" data from "criteo/plain/day9".
+[2022-11-16 06:50:18,604] Processing and saving to "criteo/libsvm/day9".
+[2022-11-16 06:50:18,763] Done with chunk "9".
+[2022-11-16 06:50:18,774] Reading chunk "10" data from "criteo/plain/day10".
+[2022-11-16 06:50:18,942] Processing and saving to "criteo/libsvm/day10".
+[2022-11-16 06:50:19,034] Done with chunk "10".
+[2022-11-16 06:50:19,045] Reading chunk "11" data from "criteo/plain/day11".
+[2022-11-16 06:50:19,189] Processing and saving to "criteo/libsvm/day11".
+[2022-11-16 06:50:19,275] Done with chunk "11".
+[2022-11-16 06:50:19,288] Reading chunk "12" data from "criteo/plain/day12".
+[2022-11-16 06:50:19,439] Processing and saving to "criteo/libsvm/day12".
+[2022-11-16 06:50:19,572] Done with chunk "12".
+[2022-11-16 06:50:19,584] Reading chunk "13" data from "criteo/plain/day13".
+[2022-11-16 06:50:19,749] Processing and saving to "criteo/libsvm/day13".
+[2022-11-16 06:50:19,834] Done with chunk "13".
+[2022-11-16 06:50:19,846] Reading chunk "14" data from "criteo/plain/day14".
+[2022-11-16 06:50:20,011] Processing and saving to "criteo/libsvm/day14".
+[2022-11-16 06:50:20,098] Done with chunk "14".
+[2022-11-16 06:50:20,108] Reading chunk "15" data from "criteo/plain/day15".
+[2022-11-16 06:50:20,239] Processing and saving to "criteo/libsvm/day15".
+[2022-11-16 06:50:20,362] Done with chunk "15".
+[2022-11-16 06:50:20,373] Reading chunk "16" data from "criteo/plain/day16".
+[2022-11-16 06:50:20,505] Processing and saving to "criteo/libsvm/day16".
+[2022-11-16 06:50:20,592] Done with chunk "16".
+[2022-11-16 06:50:20,604] Reading chunk "17" data from "criteo/plain/day17".
+[2022-11-16 06:50:20,754] Processing and saving to "criteo/libsvm/day17".
+[2022-11-16 06:50:20,840] Done with chunk "17".
+[2022-11-16 06:50:20,851] Reading chunk "18" data from "criteo/plain/day18".
+[2022-11-16 06:50:21,012] Processing and saving to "criteo/libsvm/day18".
+[2022-11-16 06:50:21,125] Done with chunk "18".
+[2022-11-16 06:50:21,136] Reading chunk "19" data from "criteo/plain/day19".
+[2022-11-16 06:50:21,271] Processing and saving to "criteo/libsvm/day19".
+[2022-11-16 06:50:21,365] Done with chunk "19".
+[2022-11-16 06:50:21,376] Reading chunk "20" data from "criteo/plain/day20".
+[2022-11-16 06:50:21,500] Processing and saving to "criteo/libsvm/day20".
+[2022-11-16 06:50:21,595] Done with chunk "20".
+[2022-11-16 06:50:21,606] Reading chunk "21" data from "criteo/plain/day21".
+[2022-11-16 06:50:21,760] Processing and saving to "criteo/libsvm/day21".
+[2022-11-16 06:50:21,876] Done with chunk "21".
+[2022-11-16 06:50:21,887] Reading chunk "22" data from "criteo/plain/day22".
+[2022-11-16 06:50:22,015] Processing and saving to "criteo/libsvm/day22".
+[2022-11-16 06:50:22,093] Done with chunk "22".
+[2022-11-16 06:50:22,101] Reading chunk "23" data from "criteo/plain/day23".
+[2022-11-16 06:50:22,220] Processing and saving to "criteo/libsvm/day23".
+[2022-11-16 06:50:22,307] Done with chunk "23".
+[2022-11-16 06:50:22,834] Preparing to write sample to "criteo/libsvm/test/1kk".
+[2022-11-16 06:50:23,010] Total number of lines for days "[23]" is "1".
+[2022-11-16 06:50:23,024] Writing sample "1000000" to "criteo/libsvm/test/1kk".
+[2022-11-16 06:50:23,216] Saved "1" lines to "criteo/libsvm/test/1kk".
+[2022-11-16 06:50:23,358] Preparing to write sample to "criteo/libsvm/train/10k".
+[2022-11-16 06:50:24,494] Total number of lines for days "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]" is "23".
+[2022-11-16 06:50:25,017] Writing sample "10000" to "criteo/libsvm/train/10k".
+[2022-11-16 06:50:26,390] Saved "23" lines to "criteo/libsvm/train/10k".
+[2022-11-16 06:50:26,402] Preparing to write sample to "criteo/libsvm/train/30k".
+[2022-11-16 06:50:26,892] Writing sample "30000" to "criteo/libsvm/train/30k".
+[2022-11-16 06:50:28,253] Saved "23" lines to "criteo/libsvm/train/30k".
+[2022-11-16 06:50:28,265] Preparing to write sample to "criteo/libsvm/train/100k".
+[2022-11-16 06:50:28,718] Writing sample "100000" to "criteo/libsvm/train/100k".
+[2022-11-16 06:50:30,038] Saved "23" lines to "criteo/libsvm/train/100k".
+[2022-11-16 06:50:30,052] Preparing to write sample to "criteo/libsvm/train/300k".
+[2022-11-16 06:50:30,540] Writing sample "300000" to "criteo/libsvm/train/300k".
+[2022-11-16 06:50:31,821] Saved "23" lines to "criteo/libsvm/train/300k".
+[2022-11-16 06:50:31,832] Preparing to write sample to "criteo/libsvm/train/1kk".
+[2022-11-16 06:50:32,346] Writing sample "1000000" to "criteo/libsvm/train/1kk".
+[2022-11-16 06:50:33,644] Saved "23" lines to "criteo/libsvm/train/1kk".
+[2022-11-16 06:50:33,654] Preparing to write sample to "criteo/libsvm/train/3kk".
+[2022-11-16 06:50:34,084] Writing sample "3000000" to "criteo/libsvm/train/3kk".
+[2022-11-16 06:50:35,471] Saved "23" lines to "criteo/libsvm/train/3kk".
+[2022-11-16 06:50:35,484] Preparing to write sample to "criteo/libsvm/train/10kk".
+[2022-11-16 06:50:35,953] Writing sample "10000000" to "criteo/libsvm/train/10kk".
+[2022-11-16 06:50:37,320] Saved "23" lines to "criteo/libsvm/train/10kk".
+[2022-11-16 06:50:37,331] Preparing to write sample to "criteo/libsvm/train/30kk".
+[2022-11-16 06:50:37,817] Writing sample "30000000" to "criteo/libsvm/train/30kk".
+[2022-11-16 06:50:39,136] Saved "23" lines to "criteo/libsvm/train/30kk".
+[2022-11-16 06:50:39,148] Preparing to write sample to "criteo/libsvm/train/100kk".
+[2022-11-16 06:50:39,617] Writing sample "100000000" to "criteo/libsvm/train/100kk".
+[2022-11-16 06:50:40,937] Saved "23" lines to "criteo/libsvm/train/100kk".
+[2022-11-16 06:50:40,951] Preparing to write sample to "criteo/libsvm/train/300kk".
+[2022-11-16 06:50:41,425] Writing sample "300000000" to "criteo/libsvm/train/300kk".
+[2022-11-16 06:50:42,728] Saved "23" lines to "criteo/libsvm/train/300kk".
+[2022-11-16 06:50:42,740] Preparing to write sample to "criteo/libsvm/train/1kkk".
+[2022-11-16 06:50:43,202] Writing sample "1000000000" to "criteo/libsvm/train/1kkk".
+[2022-11-16 06:50:44,520] Saved "23" lines to "criteo/libsvm/train/1kkk".
+[2022-11-16 06:50:44,533] Preparing to write sample to "criteo/libsvm/train/3kkk".
+[2022-11-16 06:50:44,972] Writing sample "3000000000" to "criteo/libsvm/train/3kkk".
+[2022-11-16 06:50:46,315] Saved "23" lines to "criteo/libsvm/train/3kkk".
+[2022-11-16 06:50:46,880] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 06:50:46,910] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 06:50:47,002] Done with chunk "1kk".
+[2022-11-16 06:50:47,116] Reading chunk "10k" data from "criteo/libsvm/train/10k".
+[2022-11-16 06:50:47,150] Processing and saving to "criteo/vw/train/10k".
+[2022-11-16 06:50:50,086] Done with chunk "10k".
+[2022-11-16 06:50:50,098] Reading chunk "30k" data from "criteo/libsvm/train/30k".
+[2022-11-16 06:50:50,131] Processing and saving to "criteo/vw/train/30k".
+[2022-11-16 06:50:52,862] Done with chunk "30k".
+[2022-11-16 06:50:52,874] Reading chunk "100k" data from "criteo/libsvm/train/100k".
+[2022-11-16 06:50:52,905] Processing and saving to "criteo/vw/train/100k".
+[2022-11-16 06:50:55,644] Done with chunk "100k".
+[2022-11-16 06:50:55,657] Reading chunk "300k" data from "criteo/libsvm/train/300k".
+[2022-11-16 06:50:55,689] Processing and saving to "criteo/vw/train/300k".
+[2022-11-16 06:50:58,378] Done with chunk "300k".
+[2022-11-16 06:50:58,391] Reading chunk "1kk" data from "criteo/libsvm/train/1kk".
+[2022-11-16 06:50:58,423] Processing and saving to "criteo/vw/train/1kk".
+[2022-11-16 06:51:01,077] Done with chunk "1kk".
+[2022-11-16 06:51:01,088] Reading chunk "3kk" data from "criteo/libsvm/train/3kk".
+[2022-11-16 06:51:01,121] Processing and saving to "criteo/vw/train/3kk".
+[2022-11-16 06:51:03,740] Done with chunk "3kk".
+[2022-11-16 06:51:03,752] Reading chunk "10kk" data from "criteo/libsvm/train/10kk".
+[2022-11-16 06:51:03,780] Processing and saving to "criteo/vw/train/10kk".
+[2022-11-16 06:51:06,412] Done with chunk "10kk".
+[2022-11-16 06:51:06,424] Reading chunk "30kk" data from "criteo/libsvm/train/30kk".
+[2022-11-16 06:51:06,455] Processing and saving to "criteo/vw/train/30kk".
+[2022-11-16 06:51:09,083] Done with chunk "30kk".
+[2022-11-16 06:51:09,096] Reading chunk "100kk" data from "criteo/libsvm/train/100kk".
+[2022-11-16 06:51:09,155] Processing and saving to "criteo/vw/train/100kk".
+[2022-11-16 06:51:11,801] Done with chunk "100kk".
+[2022-11-16 06:51:11,814] Reading chunk "300kk" data from "criteo/libsvm/train/300kk".
+[2022-11-16 06:51:11,846] Processing and saving to "criteo/vw/train/300kk".
+[2022-11-16 06:51:14,495] Done with chunk "300kk".
+[2022-11-16 06:51:14,508] Reading chunk "1kkk" data from "criteo/libsvm/train/1kkk".
+[2022-11-16 06:51:14,541] Processing and saving to "criteo/vw/train/1kkk".
+[2022-11-16 06:51:17,250] Done with chunk "1kkk".
+[2022-11-16 06:51:17,264] Reading chunk "3kkk" data from "criteo/libsvm/train/3kkk".
+[2022-11-16 06:51:17,298] Processing and saving to "criteo/vw/train/3kkk".
+[2022-11-16 06:51:19,946] Done with chunk "3kkk".
+[2022-11-16 06:51:21,381] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 06:53:05,741] File "criteo/data/data.test.1kk.libsvm" already exists but number of lines "1" is wrong (must be "1000000"), reloading.
+[2022-11-16 06:53:05,743] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 06:53:05,756] File loaded to "criteo/data/data.test.1kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:13,744] File "criteo/data/data.test.1kk.libsvm" already exists but number of lines "1" is wrong (must be "1000000"), reloading.
+[2022-11-16 06:53:13,746] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 06:53:13,762] File loaded to "criteo/data/data.test.1kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:25,337] File "criteo/data/data.test.1kk.libsvm" already exists but number of lines "1" is wrong (must be "1000000"), reloading.
+[2022-11-16 06:53:25,338] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 06:53:25,354] File loaded to "criteo/data/data.test.1kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,397] Loading file "criteo/libsvm/train/10k" as local file "criteo/data/data.train.10k.libsvm".
+[2022-11-16 06:53:27,413] File loaded to "criteo/data/data.train.10k.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,415] Loading file "criteo/libsvm/train/30k" as local file "criteo/data/data.train.30k.libsvm".
+[2022-11-16 06:53:27,426] File loaded to "criteo/data/data.train.30k.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,428] Loading file "criteo/libsvm/train/100k" as local file "criteo/data/data.train.100k.libsvm".
+[2022-11-16 06:53:27,435] File loaded to "criteo/data/data.train.100k.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,436] Loading file "criteo/libsvm/train/300k" as local file "criteo/data/data.train.300k.libsvm".
+[2022-11-16 06:53:27,446] File loaded to "criteo/data/data.train.300k.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,447] Loading file "criteo/libsvm/train/1kk" as local file "criteo/data/data.train.1kk.libsvm".
+[2022-11-16 06:53:27,455] File loaded to "criteo/data/data.train.1kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,457] Loading file "criteo/libsvm/train/3kk" as local file "criteo/data/data.train.3kk.libsvm".
+[2022-11-16 06:53:27,464] File loaded to "criteo/data/data.train.3kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,465] Loading file "criteo/libsvm/train/10kk" as local file "criteo/data/data.train.10kk.libsvm".
+[2022-11-16 06:53:27,474] File loaded to "criteo/data/data.train.10kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,475] Loading file "criteo/libsvm/train/30kk" as local file "criteo/data/data.train.30kk.libsvm".
+[2022-11-16 06:53:27,483] File loaded to "criteo/data/data.train.30kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,485] Loading file "criteo/libsvm/train/100kk" as local file "criteo/data/data.train.100kk.libsvm".
+[2022-11-16 06:53:27,495] File loaded to "criteo/data/data.train.100kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,497] Loading file "criteo/libsvm/train/300kk" as local file "criteo/data/data.train.300kk.libsvm".
+[2022-11-16 06:53:27,506] File loaded to "criteo/data/data.train.300kk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,508] Loading file "criteo/libsvm/train/1kkk" as local file "criteo/data/data.train.1kkk.libsvm".
+[2022-11-16 06:53:27,514] File loaded to "criteo/data/data.train.1kkk.libsvm", number of lines is "1".
+[2022-11-16 06:53:27,515] Loading file "criteo/libsvm/train/3kkk" as local file "criteo/data/data.train.3kkk.libsvm".
+[2022-11-16 06:53:27,527] File loaded to "criteo/data/data.train.3kkk.libsvm", number of lines is "1".
+[2022-11-16 06:53:30,620] Loading file "criteo/vw/test/1kk" as local file "criteo/data/data.test.1kk.vw".
+[2022-11-16 06:53:30,638] File loaded to "criteo/data/data.test.1kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,228] Loading file "criteo/vw/train/10k" as local file "criteo/data/data.train.10k.vw".
+[2022-11-16 06:53:33,240] File loaded to "criteo/data/data.train.10k.vw", number of lines is "1".
+[2022-11-16 06:53:33,243] Loading file "criteo/vw/train/30k" as local file "criteo/data/data.train.30k.vw".
+[2022-11-16 06:53:33,252] File loaded to "criteo/data/data.train.30k.vw", number of lines is "1".
+[2022-11-16 06:53:33,254] Loading file "criteo/vw/train/100k" as local file "criteo/data/data.train.100k.vw".
+[2022-11-16 06:53:33,261] File loaded to "criteo/data/data.train.100k.vw", number of lines is "1".
+[2022-11-16 06:53:33,263] Loading file "criteo/vw/train/300k" as local file "criteo/data/data.train.300k.vw".
+[2022-11-16 06:53:33,271] File loaded to "criteo/data/data.train.300k.vw", number of lines is "1".
+[2022-11-16 06:53:33,272] Loading file "criteo/vw/train/1kk" as local file "criteo/data/data.train.1kk.vw".
+[2022-11-16 06:53:33,279] File loaded to "criteo/data/data.train.1kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,280] Loading file "criteo/vw/train/3kk" as local file "criteo/data/data.train.3kk.vw".
+[2022-11-16 06:53:33,289] File loaded to "criteo/data/data.train.3kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,290] Loading file "criteo/vw/train/10kk" as local file "criteo/data/data.train.10kk.vw".
+[2022-11-16 06:53:33,299] File loaded to "criteo/data/data.train.10kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,300] Loading file "criteo/vw/train/30kk" as local file "criteo/data/data.train.30kk.vw".
+[2022-11-16 06:53:33,311] File loaded to "criteo/data/data.train.30kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,312] Loading file "criteo/vw/train/100kk" as local file "criteo/data/data.train.100kk.vw".
+[2022-11-16 06:53:33,321] File loaded to "criteo/data/data.train.100kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,322] Loading file "criteo/vw/train/300kk" as local file "criteo/data/data.train.300kk.vw".
+[2022-11-16 06:53:33,334] File loaded to "criteo/data/data.train.300kk.vw", number of lines is "1".
+[2022-11-16 06:53:33,335] Loading file "criteo/vw/train/1kkk" as local file "criteo/data/data.train.1kkk.vw".
+[2022-11-16 06:53:33,346] File loaded to "criteo/data/data.train.1kkk.vw", number of lines is "1".
+[2022-11-16 06:53:33,348] Loading file "criteo/vw/train/3kkk" as local file "criteo/data/data.train.3kkk.vw".
+[2022-11-16 06:53:33,357] File loaded to "criteo/data/data.train.3kkk.vw", number of lines is "1".
+[2022-11-16 06:53:57,566] Training "vw" on "10000" lines of data.
+[2022-11-16 06:53:57,568] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 06:53:57,569] Performing train.
+[2022-11-16 06:59:28,542] Training "vw" on "10000" lines of data.
+[2022-11-16 06:59:28,545] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 06:59:28,546] Performing train.
+[2022-11-16 06:59:28,562] Performing test.
+[2022-11-16 07:03:20,300] Training "vw" on "10000" lines of data.
+[2022-11-16 07:03:20,302] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:03:20,303] Performing train.
+[2022-11-16 07:04:09,026] Training "vw" on "10000" lines of data.
+[2022-11-16 07:04:09,028] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:04:09,029] Performing train.
+[2022-11-16 07:05:10,345] Training "vw" on "10000" lines of data.
+[2022-11-16 07:05:10,347] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:05:10,347] Performing train.
+[2022-11-16 07:06:30,409] Training "vw" on "10000" lines of data.
+[2022-11-16 07:06:30,412] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:06:30,413] Performing train.
+[2022-11-16 07:16:08,465] Training "vw" on "10000" lines of data.
+[2022-11-16 07:16:08,467] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:16:08,469] Performing train.
+[2022-11-16 07:20:17,892] Training "vw" on "10000" lines of data.
+[2022-11-16 07:20:17,894] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:20:17,896] Performing train.
+[2022-11-16 07:20:17,911] Performing test.
+[2022-11-16 07:31:07,301] Training "vw" on "10000" lines of data.
+[2022-11-16 07:31:07,302] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:31:07,304] Performing train.
+[2022-11-16 07:42:54,245] Training "vw" on "10000" lines of data.
+[2022-11-16 07:42:54,247] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:42:54,248] Performing train.
+[2022-11-16 07:43:31,370] Training "vw" on "10000" lines of data.
+[2022-11-16 07:43:31,373] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:43:31,374] Performing train.
+[2022-11-16 07:43:31,390] Performing test.
+[2022-11-16 07:48:50,920] Training "vw" on "10000" lines of data.
+[2022-11-16 07:48:50,922] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 07:48:50,922] Performing train.
+[2022-11-16 07:48:50,934] Performing test.
+[2022-11-16 08:46:11,161] Spark version: 3.3.1.
+[2022-11-16 08:46:11,977] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 08:46:26,085] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 08:49:24,985] Spark version: 3.3.1.
+[2022-11-16 08:49:25,645] Reading chunk "0" data from "criteo/plain/day0".
+[2022-11-16 08:49:30,804] Processing and saving to "criteo/libsvm/day0".
+[2022-11-16 08:49:31,872] Done with chunk "0".
+[2022-11-16 08:49:31,883] Reading chunk "1" data from "criteo/plain/day1".
+[2022-11-16 08:49:32,163] Processing and saving to "criteo/libsvm/day1".
+[2022-11-16 08:49:32,283] Done with chunk "1".
+[2022-11-16 08:49:32,294] Reading chunk "2" data from "criteo/plain/day2".
+[2022-11-16 08:49:32,562] Processing and saving to "criteo/libsvm/day2".
+[2022-11-16 08:49:32,676] Done with chunk "2".
+[2022-11-16 08:49:32,686] Reading chunk "3" data from "criteo/plain/day3".
+[2022-11-16 08:49:32,963] Processing and saving to "criteo/libsvm/day3".
+[2022-11-16 08:49:33,093] Done with chunk "3".
+[2022-11-16 08:49:33,103] Reading chunk "4" data from "criteo/plain/day4".
+[2022-11-16 08:49:33,361] Processing and saving to "criteo/libsvm/day4".
+[2022-11-16 08:49:33,461] Done with chunk "4".
+[2022-11-16 08:49:33,475] Reading chunk "5" data from "criteo/plain/day5".
+[2022-11-16 08:49:33,692] Processing and saving to "criteo/libsvm/day5".
+[2022-11-16 08:49:33,785] Done with chunk "5".
+[2022-11-16 08:49:33,797] Reading chunk "6" data from "criteo/plain/day6".
+[2022-11-16 08:49:34,057] Processing and saving to "criteo/libsvm/day6".
+[2022-11-16 08:49:34,188] Done with chunk "6".
+[2022-11-16 08:49:34,197] Reading chunk "7" data from "criteo/plain/day7".
+[2022-11-16 08:49:34,415] Processing and saving to "criteo/libsvm/day7".
+[2022-11-16 08:49:34,510] Done with chunk "7".
+[2022-11-16 08:49:34,521] Reading chunk "8" data from "criteo/plain/day8".
+[2022-11-16 08:49:34,712] Processing and saving to "criteo/libsvm/day8".
+[2022-11-16 08:49:34,802] Done with chunk "8".
+[2022-11-16 08:49:34,811] Reading chunk "9" data from "criteo/plain/day9".
+[2022-11-16 08:49:34,994] Processing and saving to "criteo/libsvm/day9".
+[2022-11-16 08:49:35,173] Done with chunk "9".
+[2022-11-16 08:49:35,188] Reading chunk "10" data from "criteo/plain/day10".
+[2022-11-16 08:49:35,404] Processing and saving to "criteo/libsvm/day10".
+[2022-11-16 08:49:35,486] Done with chunk "10".
+[2022-11-16 08:49:35,497] Reading chunk "11" data from "criteo/plain/day11".
+[2022-11-16 08:49:35,673] Processing and saving to "criteo/libsvm/day11".
+[2022-11-16 08:49:35,753] Done with chunk "11".
+[2022-11-16 08:49:35,764] Reading chunk "12" data from "criteo/plain/day12".
+[2022-11-16 08:49:35,927] Processing and saving to "criteo/libsvm/day12".
+[2022-11-16 08:49:36,037] Done with chunk "12".
+[2022-11-16 08:49:36,048] Reading chunk "13" data from "criteo/plain/day13".
+[2022-11-16 08:49:36,240] Processing and saving to "criteo/libsvm/day13".
+[2022-11-16 08:49:36,313] Done with chunk "13".
+[2022-11-16 08:49:36,323] Reading chunk "14" data from "criteo/plain/day14".
+[2022-11-16 08:49:36,526] Processing and saving to "criteo/libsvm/day14".
+[2022-11-16 08:49:36,603] Done with chunk "14".
+[2022-11-16 08:49:36,613] Reading chunk "15" data from "criteo/plain/day15".
+[2022-11-16 08:49:36,755] Processing and saving to "criteo/libsvm/day15".
+[2022-11-16 08:49:36,873] Done with chunk "15".
+[2022-11-16 08:49:36,882] Reading chunk "16" data from "criteo/plain/day16".
+[2022-11-16 08:49:37,024] Processing and saving to "criteo/libsvm/day16".
+[2022-11-16 08:49:37,096] Done with chunk "16".
+[2022-11-16 08:49:37,106] Reading chunk "17" data from "criteo/plain/day17".
+[2022-11-16 08:49:37,278] Processing and saving to "criteo/libsvm/day17".
+[2022-11-16 08:49:37,358] Done with chunk "17".
+[2022-11-16 08:49:37,368] Reading chunk "18" data from "criteo/plain/day18".
+[2022-11-16 08:49:37,559] Processing and saving to "criteo/libsvm/day18".
+[2022-11-16 08:49:37,671] Done with chunk "18".
+[2022-11-16 08:49:37,682] Reading chunk "19" data from "criteo/plain/day19".
+[2022-11-16 08:49:37,857] Processing and saving to "criteo/libsvm/day19".
+[2022-11-16 08:49:37,951] Done with chunk "19".
+[2022-11-16 08:49:37,962] Reading chunk "20" data from "criteo/plain/day20".
+[2022-11-16 08:49:38,129] Processing and saving to "criteo/libsvm/day20".
+[2022-11-16 08:49:38,224] Done with chunk "20".
+[2022-11-16 08:49:38,233] Reading chunk "21" data from "criteo/plain/day21".
+[2022-11-16 08:49:38,402] Processing and saving to "criteo/libsvm/day21".
+[2022-11-16 08:49:38,517] Done with chunk "21".
+[2022-11-16 08:49:38,527] Reading chunk "22" data from "criteo/plain/day22".
+[2022-11-16 08:49:38,694] Processing and saving to "criteo/libsvm/day22".
+[2022-11-16 08:49:38,794] Done with chunk "22".
+[2022-11-16 08:49:38,806] Reading chunk "23" data from "criteo/plain/day23".
+[2022-11-16 08:49:38,961] Processing and saving to "criteo/libsvm/day23".
+[2022-11-16 08:49:39,036] Done with chunk "23".
+[2022-11-16 08:49:39,488] Preparing to write sample to "criteo/libsvm/test/1kk".
+[2022-11-16 08:49:39,692] Total number of lines for days "[23]" is "1".
+[2022-11-16 08:49:39,702] Writing sample "1000000" to "criteo/libsvm/test/1kk".
+[2022-11-16 08:49:39,873] Saved "1" lines to "criteo/libsvm/test/1kk".
+[2022-11-16 08:49:40,000] Preparing to write sample to "criteo/libsvm/train/10k".
+[2022-11-16 08:49:41,282] Total number of lines for days "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]" is "23".
+[2022-11-16 08:49:41,833] Writing sample "10000" to "criteo/libsvm/train/10k".
+[2022-11-16 08:49:43,505] Saved "23" lines to "criteo/libsvm/train/10k".
+[2022-11-16 08:49:43,515] Preparing to write sample to "criteo/libsvm/train/30k".
+[2022-11-16 08:49:44,010] Writing sample "30000" to "criteo/libsvm/train/30k".
+[2022-11-16 08:49:45,729] Saved "23" lines to "criteo/libsvm/train/30k".
+[2022-11-16 08:49:45,740] Preparing to write sample to "criteo/libsvm/train/100k".
+[2022-11-16 08:49:46,207] Writing sample "100000" to "criteo/libsvm/train/100k".
+[2022-11-16 08:49:47,848] Saved "23" lines to "criteo/libsvm/train/100k".
+[2022-11-16 08:49:47,859] Preparing to write sample to "criteo/libsvm/train/300k".
+[2022-11-16 08:49:48,373] Writing sample "300000" to "criteo/libsvm/train/300k".
+[2022-11-16 08:49:49,986] Saved "23" lines to "criteo/libsvm/train/300k".
+[2022-11-16 08:49:49,997] Preparing to write sample to "criteo/libsvm/train/1kk".
+[2022-11-16 08:49:50,538] Writing sample "1000000" to "criteo/libsvm/train/1kk".
+[2022-11-16 08:49:52,110] Saved "23" lines to "criteo/libsvm/train/1kk".
+[2022-11-16 08:49:52,122] Preparing to write sample to "criteo/libsvm/train/3kk".
+[2022-11-16 08:49:52,599] Writing sample "3000000" to "criteo/libsvm/train/3kk".
+[2022-11-16 08:49:54,205] Saved "23" lines to "criteo/libsvm/train/3kk".
+[2022-11-16 08:49:54,217] Preparing to write sample to "criteo/libsvm/train/10kk".
+[2022-11-16 08:49:54,715] Writing sample "10000000" to "criteo/libsvm/train/10kk".
+[2022-11-16 08:49:56,280] Saved "23" lines to "criteo/libsvm/train/10kk".
+[2022-11-16 08:49:56,290] Preparing to write sample to "criteo/libsvm/train/30kk".
+[2022-11-16 08:49:56,733] Writing sample "30000000" to "criteo/libsvm/train/30kk".
+[2022-11-16 08:49:58,352] Saved "23" lines to "criteo/libsvm/train/30kk".
+[2022-11-16 08:49:58,365] Preparing to write sample to "criteo/libsvm/train/100kk".
+[2022-11-16 08:49:58,855] Writing sample "100000000" to "criteo/libsvm/train/100kk".
+[2022-11-16 08:50:00,481] Saved "23" lines to "criteo/libsvm/train/100kk".
+[2022-11-16 08:50:00,492] Preparing to write sample to "criteo/libsvm/train/300kk".
+[2022-11-16 08:50:00,991] Writing sample "300000000" to "criteo/libsvm/train/300kk".
+[2022-11-16 08:50:02,558] Saved "23" lines to "criteo/libsvm/train/300kk".
+[2022-11-16 08:50:02,570] Preparing to write sample to "criteo/libsvm/train/1kkk".
+[2022-11-16 08:50:03,065] Writing sample "1000000000" to "criteo/libsvm/train/1kkk".
+[2022-11-16 08:50:04,691] Saved "23" lines to "criteo/libsvm/train/1kkk".
+[2022-11-16 08:50:04,702] Preparing to write sample to "criteo/libsvm/train/3kkk".
+[2022-11-16 08:50:05,187] Writing sample "3000000000" to "criteo/libsvm/train/3kkk".
+[2022-11-16 08:50:06,735] Saved "23" lines to "criteo/libsvm/train/3kkk".
+[2022-11-16 08:50:07,266] Reading chunk "1kk" data from "criteo/libsvm/test/1kk".
+[2022-11-16 08:50:07,298] Processing and saving to "criteo/vw/test/1kk".
+[2022-11-16 08:50:07,383] Done with chunk "1kk".
+[2022-11-16 08:50:07,491] Reading chunk "10k" data from "criteo/libsvm/train/10k".
+[2022-11-16 08:50:07,522] Processing and saving to "criteo/vw/train/10k".
+[2022-11-16 08:50:10,804] Done with chunk "10k".
+[2022-11-16 08:50:10,815] Reading chunk "30k" data from "criteo/libsvm/train/30k".
+[2022-11-16 08:50:10,847] Processing and saving to "criteo/vw/train/30k".
+[2022-11-16 08:50:13,640] Done with chunk "30k".
+[2022-11-16 08:50:13,652] Reading chunk "100k" data from "criteo/libsvm/train/100k".
+[2022-11-16 08:50:13,684] Processing and saving to "criteo/vw/train/100k".
+[2022-11-16 08:50:16,500] Done with chunk "100k".
+[2022-11-16 08:50:16,510] Reading chunk "300k" data from "criteo/libsvm/train/300k".
+[2022-11-16 08:50:16,546] Processing and saving to "criteo/vw/train/300k".
+[2022-11-16 08:50:19,263] Done with chunk "300k".
+[2022-11-16 08:50:19,275] Reading chunk "1kk" data from "criteo/libsvm/train/1kk".
+[2022-11-16 08:50:19,307] Processing and saving to "criteo/vw/train/1kk".
+[2022-11-16 08:50:22,046] Done with chunk "1kk".
+[2022-11-16 08:50:22,057] Reading chunk "3kk" data from "criteo/libsvm/train/3kk".
+[2022-11-16 08:50:22,088] Processing and saving to "criteo/vw/train/3kk".
+[2022-11-16 08:50:24,718] Done with chunk "3kk".
+[2022-11-16 08:50:24,732] Reading chunk "10kk" data from "criteo/libsvm/train/10kk".
+[2022-11-16 08:50:24,763] Processing and saving to "criteo/vw/train/10kk".
+[2022-11-16 08:50:27,430] Done with chunk "10kk".
+[2022-11-16 08:50:27,443] Reading chunk "30kk" data from "criteo/libsvm/train/30kk".
+[2022-11-16 08:50:27,475] Processing and saving to "criteo/vw/train/30kk".
+[2022-11-16 08:50:30,225] Done with chunk "30kk".
+[2022-11-16 08:50:30,236] Reading chunk "100kk" data from "criteo/libsvm/train/100kk".
+[2022-11-16 08:50:30,267] Processing and saving to "criteo/vw/train/100kk".
+[2022-11-16 08:50:32,920] Done with chunk "100kk".
+[2022-11-16 08:50:32,932] Reading chunk "300kk" data from "criteo/libsvm/train/300kk".
+[2022-11-16 08:50:32,986] Processing and saving to "criteo/vw/train/300kk".
+[2022-11-16 08:50:35,659] Done with chunk "300kk".
+[2022-11-16 08:50:35,671] Reading chunk "1kkk" data from "criteo/libsvm/train/1kkk".
+[2022-11-16 08:50:35,702] Processing and saving to "criteo/vw/train/1kkk".
+[2022-11-16 08:50:38,281] Done with chunk "1kkk".
+[2022-11-16 08:50:38,292] Reading chunk "3kkk" data from "criteo/libsvm/train/3kkk".
+[2022-11-16 08:50:38,320] Processing and saving to "criteo/vw/train/3kkk".
+[2022-11-16 08:50:40,987] Done with chunk "3kkk".
+[2022-11-16 08:50:42,382] Loading file "criteo/libsvm/test/1kk" as local file "criteo/data/data.test.1kk.libsvm".
+[2022-11-16 08:50:42,393] File loaded to "criteo/data/data.test.1kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,502] Loading file "criteo/libsvm/train/10k" as local file "criteo/data/data.train.10k.libsvm".
+[2022-11-16 08:50:42,513] File loaded to "criteo/data/data.train.10k.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,514] Loading file "criteo/libsvm/train/30k" as local file "criteo/data/data.train.30k.libsvm".
+[2022-11-16 08:50:42,523] File loaded to "criteo/data/data.train.30k.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,525] Loading file "criteo/libsvm/train/100k" as local file "criteo/data/data.train.100k.libsvm".
+[2022-11-16 08:50:42,535] File loaded to "criteo/data/data.train.100k.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,537] Loading file "criteo/libsvm/train/300k" as local file "criteo/data/data.train.300k.libsvm".
+[2022-11-16 08:50:42,547] File loaded to "criteo/data/data.train.300k.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,548] Loading file "criteo/libsvm/train/1kk" as local file "criteo/data/data.train.1kk.libsvm".
+[2022-11-16 08:50:42,558] File loaded to "criteo/data/data.train.1kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,560] Loading file "criteo/libsvm/train/3kk" as local file "criteo/data/data.train.3kk.libsvm".
+[2022-11-16 08:50:42,570] File loaded to "criteo/data/data.train.3kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,572] Loading file "criteo/libsvm/train/10kk" as local file "criteo/data/data.train.10kk.libsvm".
+[2022-11-16 08:50:42,581] File loaded to "criteo/data/data.train.10kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,583] Loading file "criteo/libsvm/train/30kk" as local file "criteo/data/data.train.30kk.libsvm".
+[2022-11-16 08:50:42,593] File loaded to "criteo/data/data.train.30kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,594] Loading file "criteo/libsvm/train/100kk" as local file "criteo/data/data.train.100kk.libsvm".
+[2022-11-16 08:50:42,605] File loaded to "criteo/data/data.train.100kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,607] Loading file "criteo/libsvm/train/300kk" as local file "criteo/data/data.train.300kk.libsvm".
+[2022-11-16 08:50:42,616] File loaded to "criteo/data/data.train.300kk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,618] Loading file "criteo/libsvm/train/1kkk" as local file "criteo/data/data.train.1kkk.libsvm".
+[2022-11-16 08:50:42,630] File loaded to "criteo/data/data.train.1kkk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,632] Loading file "criteo/libsvm/train/3kkk" as local file "criteo/data/data.train.3kkk.libsvm".
+[2022-11-16 08:50:42,641] File loaded to "criteo/data/data.train.3kkk.libsvm", number of lines is "1".
+[2022-11-16 08:50:42,746] Loading file "criteo/vw/test/1kk" as local file "criteo/data/data.test.1kk.vw".
+[2022-11-16 08:50:42,759] File loaded to "criteo/data/data.test.1kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,871] Loading file "criteo/vw/train/10k" as local file "criteo/data/data.train.10k.vw".
+[2022-11-16 08:50:42,882] File loaded to "criteo/data/data.train.10k.vw", number of lines is "1".
+[2022-11-16 08:50:42,883] Loading file "criteo/vw/train/30k" as local file "criteo/data/data.train.30k.vw".
+[2022-11-16 08:50:42,894] File loaded to "criteo/data/data.train.30k.vw", number of lines is "1".
+[2022-11-16 08:50:42,896] Loading file "criteo/vw/train/100k" as local file "criteo/data/data.train.100k.vw".
+[2022-11-16 08:50:42,907] File loaded to "criteo/data/data.train.100k.vw", number of lines is "1".
+[2022-11-16 08:50:42,908] Loading file "criteo/vw/train/300k" as local file "criteo/data/data.train.300k.vw".
+[2022-11-16 08:50:42,918] File loaded to "criteo/data/data.train.300k.vw", number of lines is "1".
+[2022-11-16 08:50:42,919] Loading file "criteo/vw/train/1kk" as local file "criteo/data/data.train.1kk.vw".
+[2022-11-16 08:50:42,929] File loaded to "criteo/data/data.train.1kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,931] Loading file "criteo/vw/train/3kk" as local file "criteo/data/data.train.3kk.vw".
+[2022-11-16 08:50:42,940] File loaded to "criteo/data/data.train.3kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,942] Loading file "criteo/vw/train/10kk" as local file "criteo/data/data.train.10kk.vw".
+[2022-11-16 08:50:42,952] File loaded to "criteo/data/data.train.10kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,954] Loading file "criteo/vw/train/30kk" as local file "criteo/data/data.train.30kk.vw".
+[2022-11-16 08:50:42,964] File loaded to "criteo/data/data.train.30kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,966] Loading file "criteo/vw/train/100kk" as local file "criteo/data/data.train.100kk.vw".
+[2022-11-16 08:50:42,976] File loaded to "criteo/data/data.train.100kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,978] Loading file "criteo/vw/train/300kk" as local file "criteo/data/data.train.300kk.vw".
+[2022-11-16 08:50:42,988] File loaded to "criteo/data/data.train.300kk.vw", number of lines is "1".
+[2022-11-16 08:50:42,990] Loading file "criteo/vw/train/1kkk" as local file "criteo/data/data.train.1kkk.vw".
+[2022-11-16 08:50:42,999] File loaded to "criteo/data/data.train.1kkk.vw", number of lines is "1".
+[2022-11-16 08:50:43,001] Loading file "criteo/vw/train/3kkk" as local file "criteo/data/data.train.3kkk.vw".
+[2022-11-16 08:50:43,011] File loaded to "criteo/data/data.train.3kkk.vw", number of lines is "1".
+[2022-11-16 08:52:20,304] Training "vw" on "10000" lines of data.
+[2022-11-16 08:52:20,306] Will train on "criteo/data/data.train.10k.vw" and test on "criteo/data/data.test.1kk.vw".
+[2022-11-16 08:52:20,307] Performing train.
+[2022-11-16 08:52:20,319] Performing test.

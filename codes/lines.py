@@ -5,3 +5,6 @@
 #         if row['media_name']=='hello':
 #             print(row)
 #             lines.append(row)
+
+
+vowpalwabbit.CBLabel
