@@ -1,3 +1,4 @@
+from functools import reduce
 import sys
 from sklearn.metrics import (
     auc,
@@ -57,4 +58,4 @@ try:
 except:
     train_size = 0
 
-print '\t'.join(map(str, [engine, train_size, roc_auc, ll, elapsed, memory, cpu]))
+print( "\t".join(map(str, [engine, train_size, roc_auc, ll, elapsed, memory, cpu])) )
