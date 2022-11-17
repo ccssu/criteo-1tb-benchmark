@@ -2188,3 +2188,107 @@ KeyboardInterrupt
 [2022-11-16 13:10:37,894] Evaluating the model "lr" trained on sample "3000000000".
 [2022-11-16 13:10:45,256] For the model "lr" trained on sample "3000000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 0.004861575674242463}"; ROC AUC calculated by Spark is "1.0".
 [2022-11-16 13:10:45,257] Data row: "lr	3000000000	1.0	0.004861575674242463	46.30709099769592".
+[2022-11-16 23:42:24,718] Spark version: 3.3.1.
+[2022-11-16 23:51:54,592] Spark version: 3.3.1.
+[2022-11-17 00:10:04,347] Loading "1000000" test samples for rf.
+[2022-11-17 00:11:00,714] Loading "1000000" test samples for rf.
+[2022-11-17 00:12:58,180] Loading "1000000" test samples for rf.
+[2022-11-17 00:38:50,124] Loading "1000000" test samples for rf.
+[2022-11-17 00:39:04,197] Loading "1000000" test samples for rf.
+[2022-11-17 00:39:07,246] Loaded "20" lines.
+[2022-11-17 00:39:07,247] Working on "10000" train sample.
+[2022-11-17 00:39:07,248] Loading "10000" train samples for rf.
+[2022-11-17 00:39:09,308] Loaded "460" lines.
+[2022-11-17 00:39:09,310] Training a model "rf" on sample "10000".
+[2022-11-17 00:39:38,414] Training a model "rf" on sample "10000" took "29.1031" seconds.
+[2022-11-17 00:39:38,415] Evaluating the model "rf" trained on sample "10000".
+[2022-11-17 00:39:58,845] For the model "rf" trained on sample "10000" metrics are: "{'train_roc_auc': 1.0, 'train_log_loss': 9.992007221626413e-16, 'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:39:58,846] Data row: "rf	10000	1.0	9.992007221626413e-16	29.103107929229736".
+[2022-11-17 00:39:58,904] Working on "30000" train sample.
+[2022-11-17 00:39:58,905] Loading "30000" train samples for rf.
+[2022-11-17 00:40:00,718] Loaded "460" lines.
+[2022-11-17 00:40:00,719] Training a model "rf" on sample "30000".
+[2022-11-17 00:40:28,197] Training a model "rf" on sample "30000" took "27.4767" seconds.
+[2022-11-17 00:40:28,198] Evaluating the model "rf" trained on sample "30000".
+[2022-11-17 00:40:47,863] For the model "rf" trained on sample "30000" metrics are: "{'train_roc_auc': 1.0, 'train_log_loss': 9.992007221626413e-16, 'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:40:47,864] Data row: "rf	30000	1.0	9.992007221626413e-16	27.476683378219604".
+[2022-11-17 00:40:47,867] Working on "100000" train sample.
+[2022-11-17 00:40:47,868] Loading "100000" train samples for rf.
+[2022-11-17 00:40:49,621] Loaded "460" lines.
+[2022-11-17 00:40:49,622] Training a model "rf" on sample "100000".
+[2022-11-17 00:41:16,231] Training a model "rf" on sample "100000" took "26.6072" seconds.
+[2022-11-17 00:41:16,232] Evaluating the model "rf" trained on sample "100000".
+[2022-11-17 00:41:35,458] For the model "rf" trained on sample "100000" metrics are: "{'train_roc_auc': 1.0, 'train_log_loss': 9.992007221626413e-16, 'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:41:35,460] Data row: "rf	100000	1.0	9.992007221626413e-16	26.60716962814331".
+[2022-11-17 00:41:35,464] Working on "300000" train sample.
+[2022-11-17 00:41:35,466] Loading "300000" train samples for rf.
+[2022-11-17 00:41:37,181] Loaded "460" lines.
+[2022-11-17 00:41:37,182] Training a model "rf" on sample "300000".
+[2022-11-17 00:42:03,643] Training a model "rf" on sample "300000" took "26.4587" seconds.
+[2022-11-17 00:42:03,645] Evaluating the model "rf" trained on sample "300000".
+[2022-11-17 00:42:22,959] For the model "rf" trained on sample "300000" metrics are: "{'train_roc_auc': 1.0, 'train_log_loss': 9.992007221626413e-16, 'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:42:22,961] Data row: "rf	300000	1.0	9.992007221626413e-16	26.458736896514893".
+[2022-11-17 00:42:22,964] Working on "1000000" train sample.
+[2022-11-17 00:42:22,965] Loading "1000000" train samples for rf.
+[2022-11-17 00:42:24,626] Loaded "460" lines.
+[2022-11-17 00:42:24,627] Training a model "rf" on sample "1000000".
+[2022-11-17 00:42:51,022] Training a model "rf" on sample "1000000" took "26.3928" seconds.
+[2022-11-17 00:42:51,023] Evaluating the model "rf" trained on sample "1000000".
+[2022-11-17 00:43:10,119] For the model "rf" trained on sample "1000000" metrics are: "{'train_roc_auc': 1.0, 'train_log_loss': 9.992007221626413e-16, 'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:43:10,121] Data row: "rf	1000000	1.0	9.992007221626413e-16	26.39281392097473".
+[2022-11-17 00:43:10,124] Working on "3000000" train sample.
+[2022-11-17 00:43:10,126] Loading "3000000" train samples for rf.
+[2022-11-17 00:43:11,773] Loaded "460" lines.
+[2022-11-17 00:43:11,774] Training a model "rf" on sample "3000000".
+[2022-11-17 00:43:38,244] Training a model "rf" on sample "3000000" took "26.4689" seconds.
+[2022-11-17 00:43:38,245] Evaluating the model "rf" trained on sample "3000000".
+[2022-11-17 00:43:49,298] For the model "rf" trained on sample "3000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:43:49,300] Data row: "rf	3000000	1.0	9.992007221626413e-16	26.46885895729065".
+[2022-11-17 00:43:49,303] Working on "10000000" train sample.
+[2022-11-17 00:43:49,304] Loading "10000000" train samples for rf.
+[2022-11-17 00:43:51,078] Loaded "460" lines.
+[2022-11-17 00:43:51,080] Training a model "rf" on sample "10000000".
+[2022-11-17 00:44:17,388] Training a model "rf" on sample "10000000" took "26.3071" seconds.
+[2022-11-17 00:44:17,389] Evaluating the model "rf" trained on sample "10000000".
+[2022-11-17 00:44:28,455] For the model "rf" trained on sample "10000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:44:28,457] Data row: "rf	10000000	1.0	9.992007221626413e-16	26.30705738067627".
+[2022-11-17 00:44:28,459] Working on "30000000" train sample.
+[2022-11-17 00:44:28,460] Loading "30000000" train samples for rf.
+[2022-11-17 00:44:30,156] Loaded "460" lines.
+[2022-11-17 00:44:30,157] Training a model "rf" on sample "30000000".
+[2022-11-17 00:44:56,270] Training a model "rf" on sample "30000000" took "26.1123" seconds.
+[2022-11-17 00:44:56,272] Evaluating the model "rf" trained on sample "30000000".
+[2022-11-17 00:45:07,173] For the model "rf" trained on sample "30000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:45:07,174] Data row: "rf	30000000	1.0	9.992007221626413e-16	26.112316370010376".
+[2022-11-17 00:45:07,177] Working on "100000000" train sample.
+[2022-11-17 00:45:07,178] Loading "100000000" train samples for rf.
+[2022-11-17 00:45:08,817] Loaded "460" lines.
+[2022-11-17 00:45:08,818] Training a model "rf" on sample "100000000".
+[2022-11-17 00:45:34,991] Training a model "rf" on sample "100000000" took "26.1714" seconds.
+[2022-11-17 00:45:34,993] Evaluating the model "rf" trained on sample "100000000".
+[2022-11-17 00:45:45,845] For the model "rf" trained on sample "100000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:45:45,846] Data row: "rf	100000000	1.0	9.992007221626413e-16	26.171390533447266".
+[2022-11-17 00:45:45,849] Working on "300000000" train sample.
+[2022-11-17 00:45:45,850] Loading "300000000" train samples for rf.
+[2022-11-17 00:45:47,472] Loaded "460" lines.
+[2022-11-17 00:45:47,474] Training a model "rf" on sample "300000000".
+[2022-11-17 00:46:13,702] Training a model "rf" on sample "300000000" took "26.227" seconds.
+[2022-11-17 00:46:13,703] Evaluating the model "rf" trained on sample "300000000".
+[2022-11-17 00:46:24,785] For the model "rf" trained on sample "300000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:46:24,787] Data row: "rf	300000000	1.0	9.992007221626413e-16	26.2270405292511".
+[2022-11-17 00:46:24,791] Working on "1000000000" train sample.
+[2022-11-17 00:46:24,792] Loading "1000000000" train samples for rf.
+[2022-11-17 00:46:26,469] Loaded "460" lines.
+[2022-11-17 00:46:26,470] Training a model "rf" on sample "1000000000".
+[2022-11-17 00:46:52,944] Training a model "rf" on sample "1000000000" took "26.4726" seconds.
+[2022-11-17 00:46:52,945] Evaluating the model "rf" trained on sample "1000000000".
+[2022-11-17 00:47:03,905] For the model "rf" trained on sample "1000000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:47:03,907] Data row: "rf	1000000000	1.0	9.992007221626413e-16	26.47263526916504".
+[2022-11-17 00:47:03,910] Working on "3000000000" train sample.
+[2022-11-17 00:47:03,911] Loading "3000000000" train samples for rf.
+[2022-11-17 00:47:05,588] Loaded "460" lines.
+[2022-11-17 00:47:05,589] Training a model "rf" on sample "3000000000".
+[2022-11-17 00:47:31,671] Training a model "rf" on sample "3000000000" took "26.0809" seconds.
+[2022-11-17 00:47:31,672] Evaluating the model "rf" trained on sample "3000000000".
+[2022-11-17 00:47:42,583] For the model "rf" trained on sample "3000000000" metrics are: "{'test_roc_auc': 1.0, 'test_log_loss': 9.992007221626413e-16}"; ROC AUC calculated by Spark is "1.0".
+[2022-11-17 00:47:42,585] Data row: "rf	3000000000	1.0	9.992007221626413e-16	26.08086085319519".
